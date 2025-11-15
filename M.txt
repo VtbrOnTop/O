@@ -73,7 +73,7 @@ setupAntiAFK()
 
 local window = library:AddWindow("El Matador", {
     main_color = Color3.fromRGB(93, 56, 242, 0.761),
-    min_size = Vector2.new(700, 900),
+    min_size = Vector2.new(600, 600),
     can_resize = true,
 })
  
